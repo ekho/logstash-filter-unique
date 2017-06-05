@@ -1,6 +1,6 @@
 # Logstash Plugin
 
-[![Travis Build Status](https://travis-ci.org/logstash-plugins/logstash-filter-unique.svg)](https://travis-ci.org/logstash-plugins/logstash-filter-unique)
+[![Travis Build Status](https://travis-ci.org/ekho/logstash-filter-unique.svg)](https://travis-ci.org/ekho/logstash-filter-unique)
 
 This is a plugin for [Logstash](https://github.com/elastic/logstash).
 
