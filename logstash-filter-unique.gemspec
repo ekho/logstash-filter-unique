@@ -1,5 +1,4 @@
 Gem::Specification.new do |s|
-
   s.name            = 'logstash-filter-unique'
   s.version         = '3.0.0'
   s.licenses        = ['Apache-2.0']
@@ -24,4 +23,3 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency 'logstash-devutils'
 end
-
